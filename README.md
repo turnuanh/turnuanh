@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning how to code
-⚡ Fun fact: I have a husky. His name is BoBo
+-🌱 I’m currently learning how to code
+-⚡ Fun fact: I have a husky. His name is BoBo
 -->
